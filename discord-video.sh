@@ -2,7 +2,7 @@
 
 # 200 000 000 bits / video length = target bitrate
 
-MAX_VIDEO_SIZE="187500000"
+MAX_VIDEO_SIZE="78000000"
 #MAX_AUDIO_SIZE="12500000"
 
 # Check argument
